@@ -1,3 +1,3 @@
 # orie3120project
 
-Amer Islam, Yoo Jin Bae
+Amer Islam, Lingxuan Shi, Yoo Jin Bae
